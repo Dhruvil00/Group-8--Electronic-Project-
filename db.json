@@ -1,0 +1,55 @@
+{
+  "add": [
+    {
+      "productName": "Iphone",
+      "category": "PHONE",
+      "Price": 1200,
+      "Discount": "0",
+      "Image": "ois;jd",
+      "Discription": "ojda",
+      "id": 1
+    },
+    {
+      "productName": "Iphone",
+      "category": "GAMING",
+      "Price": 1000,
+      "Discount": "200",
+      "Image": "coo",
+      "Discription": "100",
+      "id": 2
+    },
+    {
+      "productName": "Iphone",
+      "category": "PHONE",
+      "Price": 1200,
+      "Discount": "0",
+      "Image": "mkdlsma",
+      "Discription": "kamcla",
+      "id": 3
+    },
+    {
+      "admin_username": "dhruvil01",
+      "admin_password": "root0",
+      "id": 4
+    },
+    {
+      "productName": "Iphone",
+      "category": "PHONE",
+      "Price": 200,
+      "Discount": "0",
+      "Image": "jcnksdjn",
+      "Discription": "jenckjn",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
